@@ -1,0 +1,5 @@
+Too many nested if-else statements.
+- Proposal: Response switch statement. (Function holding responses and #s for each).
+- Proposal: eliminate else statements.
+
+Function for each step.
